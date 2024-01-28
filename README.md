@@ -7,4 +7,4 @@ Currently, I work as a Director in Pfizer’s Evidence Generation Platform, wher
 I specialize in health **disparities** research, **geospatial mapping** and analyses, the development of **open source research software**, and data acquisition.
 
 ## Follow My Work
-- You can follow my work on my <a href="http://chris-prener.github.io/" target="_blank">website</a> and on <a href="https://twitter.com/chrisprener" target="_blank">Twitter</a>
+- You can follow my work on my <a href="http://chris-prener.github.io/" target="_blank">website</a>
